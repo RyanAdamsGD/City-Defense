@@ -1,0 +1,2 @@
+C:\Users\radams\Desktop\XNA\Project2\Project2Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2Content\obj\x86\Debug\Project2Content.contentprojResolveAssemblyReference.cache
