@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:NodeContent">
+    <Name>RootNode</Name>
+    <Identity>
+      <SourceFilename>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2Content\Models\Buildings\Building_With_Tower.fbx</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+    <Children>
+      <Child>
+        <Name>polySurface53</Name>
+        <Transform>1 0 0 0 0 -4.371139E-08 1 0 0 -1 -4.371139E-08 0 -4.343606 2.72776532 5.989754 1</Transform>
+        <Children>
+          <Child>
+            <Name>transform84</Name>
+            <Transform>1 0 0 0 0 0 1 0 0 -1 0 0 4.343607 -2.7277658 -5.989754 1</Transform>
+          </Child>
+          <Child Type="Graphics:MeshContent">
+            <Name>Building_With_Tower</Name>
+            <OpaqueData>
+              <Data Key="UDP3DSMAX">MapChannel:1 = map1
+</Data>
+              <Data Key="MaxHandle" Type="int">13</Data>
+            </OpaqueData>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 -1.19234414E-07 -2.3401892E-08 1</Transform>
+            <Positions>3.31887627 -4.994568 2.68113947 5.343606 -4.994568 2.68113947 3.31887627 -4.994568 1.68113947 5.343606 -4.994568 1.68113947 3.31887627 -7.122613 1.68113959 5.343606 -7.122613 1.68113959 3.31887627 -7.12261343 2.68113947 5.343606 -7.12261343 2.68113947 3.31887627 -5.727773 1.68113959 3.31887627 -5.727773 2.68113971 5.343606 -5.727773 2.68113971 5.343606 -5.727773 1.68113959 3.770121 -4.994568 -0.271675944 4.892361 -4.994568 -0.271675944 4.89236069 -5.727773 -0.271676 3.770121 -5.727773 -0.271676</Positions>
+            <Geometry>
+              <Batch>
+                <Material>#Resource1</Material>
+                <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22 24 13 14 14 25 24 28 27 26 26 18 28 31 30 29 29 32 31 33 2 3 3 34 33 37 36 35 35 38 37 41 40 39 39 42 41 45 44 43 43 46 45 47 23 20 20 48 47</Indices>
+                <Vertices>
+                  <PositionIndices>0 1 3 2 15 12 13 14 7 6 4 5 0 9 10 1 1 10 11 3 9 0 2 8 6 7 10 7 5 8 11 5 4 13 12 3 11 14 13 11 8 15 14 8 2 12 15 4 6</PositionIndices>
+                  <Channels>
+                    <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 1 2.220446E-16 0 1 2.220446E-16 0 1 2.220446E-16 0 1 2.220446E-16 -2.30974229E-06 2.220446E-16 -1 -1.09682321E-06 2.220446E-16 -1 0 2.220446E-16 -1 5.804797E-08 2.220446E-16 -1 0 -1 -2.220446E-16 0 -1 -2.220446E-16 0 -1 -2.220446E-16 0 -1 -2.220446E-16 0 -2.220446E-16 1 0 -2.220446E-16 1 0 -2.220446E-16 1 0 -2.220446E-16 1 1 -1.62586431E-07 -3.610144E-23 1 -8.12932157E-08 -7.930604E-07 1 -1.62586446E-07 -3.61014431E-23 1 -3.251729E-07 -7.22028862E-23 -1 0 0 -1 0 0 -1 0 0 -1 0 0 0 -2.220446E-16 1 0 -2.220446E-16 1 1 4.575997E-08 -7.930604E-07 1 9.151994E-08 2.03215081E-23 1 1.83039873E-07 4.06430163E-23 0 2.220446E-16 -1 0 2.220446E-16 -1 0 2.220446E-16 -1 0 2.220446E-16 -1 0 1 2.220446E-16 0 1 2.220446E-16 0.974325359 -3.02552024E-07 -0.2251447 0.974325359 -3.02552024E-07 -0.2251447 0.9743262 -3.04317922E-07 -0.225141183 0.9743262 -3.04317922E-07 -0.225141183 0 -1 -2.220446E-16 0 -1 -2.220446E-16 0 -1 -2.220446E-16 0 -1 -2.220446E-16 -0.974326 4.99915272E-17 -0.225141823 -0.974326 4.99915272E-17 -0.225141823 -0.9743262 4.999142E-17 -0.225141346 -0.9743262 4.999142E-17 -0.225141346 -1 0 0 -1 0 0</VertexChannel>
+                    <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.00199203379 0.9981877 0.300127059 0.9981877 0.300127059 0.8509408 0.00199203379 0.8509408 0.109954216 0.09203088 0.00199203379 0.09203088 0.00199203379 0.257277131 0.109954216 0.257277071 0.6937377 0.559403539 0.6937377 0.2612685 0.5464909 0.2612685 0.5464909 0.559403539 0.699873 0.246055543 0.699873 0.3540178 0.998008 0.3540178 0.998008 0.246055543 0.308172464 0.9981877 0.416134655 0.9981877 0.416134655 0.8509408 0.308172464 0.8509408 0.8331863 0.9981877 0.941148639 0.9981877 0.941148639 0.8509408 0.8331863 0.8509408 0.699873 0.5594035 0.998008 0.5594035 0.416134655 0.9981877 0.6215204 0.9981877 0.6215204 0.8509408 0.334969848 0.261268437 0.334969848 0.5594034 0.540355563 0.5594035 0.540355563 0.261268437 0.233682722 0.5633949 0.06843644 0.5633949 0.308172464 0.8509408 0.416134655 0.8509408 0.416134655 0.5633949 0.308172464 0.5633949 0.328834563 0.559403539 0.328834563 0.261268556 0.04128866 0.3277129 0.04128866 0.4929592 0.8331863 0.8509408 0.941148639 0.8509408 0.941148639 0.5633949 0.8331863 0.5633949 0.627800643 0.8509408 0.627800643 0.9981877</VertexChannel>
+                  </Channels>
+                </Vertices>
+              </Batch>
+            </Geometry>
+          </Child>
+        </Children>
+      </Child>
+      <Child>
+        <Name>pCube1</Name>
+        <OpaqueData>
+          <Data Key="MaxHandle" Type="int">1</Data>
+        </OpaqueData>
+        <Transform>1 0 0 0 0 1 4.371139E-08 0 0 -4.371139E-08 1 0 -182.5628 0.6619145 97.64261 1</Transform>
+        <Children>
+          <Child>
+            <Name>transform1</Name>
+            <OpaqueData>
+              <Data Key="MaxHandle" Type="int">2</Data>
+            </OpaqueData>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 14.2207642 -0.6619146 7.336128 1</Transform>
+          </Child>
+        </Children>
+      </Child>
+      <Child>
+        <Name>pCube2</Name>
+        <OpaqueData>
+          <Data Key="MaxHandle" Type="int">3</Data>
+        </OpaqueData>
+        <Transform>-1 0 0 0 0 1 -1.62920685E-07 0 0 1.62920685E-07 1 0 -168.342056 0.6619145 97.64261 1</Transform>
+        <Children>
+          <Child>
+            <Name>transform2</Name>
+            <OpaqueData>
+              <Data Key="MaxHandle" Type="int">4</Data>
+            </OpaqueData>
+            <Transform>1 0 0 0 0 1 -2.842171E-14 0 0 2.842171E-14 1 0 0 -0.6619145 7.336128 1</Transform>
+          </Child>
+        </Children>
+      </Child>
+      <Child>
+        <Name>pCube17</Name>
+        <OpaqueData>
+          <Data Key="MaxHandle" Type="int">1</Data>
+        </OpaqueData>
+        <Transform>1 0 0 0 0 1 4.371139E-08 0 0 -4.371139E-08 1 0 0 1.44942975 -0.2852146 1</Transform>
+        <Children>
+          <Child>
+            <Name>transform91</Name>
+            <OpaqueData>
+              <Data Key="MaxHandle" Type="int">2</Data>
+            </OpaqueData>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 -1.44943 0.285214663 1</Transform>
+          </Child>
+        </Children>
+      </Child>
+      <Child>
+        <Name>pCube18</Name>
+        <OpaqueData>
+          <Data Key="MaxHandle" Type="int">3</Data>
+        </OpaqueData>
+        <Transform>-1 0 0 0 0 1 -4.371139E-08 0 0 4.371139E-08 1 0 0 1.44942975 -0.2852146 1</Transform>
+        <Children>
+          <Child>
+            <Name>transform90</Name>
+            <OpaqueData>
+              <Data Key="MaxHandle" Type="int">4</Data>
+            </OpaqueData>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 -1.44943 0.285214663 1</Transform>
+          </Child>
+        </Children>
+      </Child>
+      <Child>
+        <Name>group</Name>
+        <OpaqueData>
+          <Data Key="MaxHandle" Type="int">16</Data>
+        </OpaqueData>
+        <Transform>0.6510637 0 0 0 0 0.6510637 2.84589E-08 0 0 -2.84589E-08 0.6510637 0 -0.5626704 0.485217184 0.4293347 1</Transform>
+      </Child>
+      <Child>
+        <Name>group66</Name>
+        <OpaqueData>
+          <Data Key="MaxHandle" Type="int">18</Data>
+        </OpaqueData>
+        <Transform>0.6510637 0 0 0 0 0.6510637 2.84589E-08 0 0 -2.84589E-08 0.6510637 0 -0.5626704 0.485217184 0.4293347 1</Transform>
+        <Children>
+          <Child Type="Graphics:MeshContent">
+            <Name>UCX_Building_With_Tower2</Name>
+            <OpaqueData>
+              <Data Key="UDP3DSMAX">MapChannel:1 = map1
+</Data>
+              <Data Key="MaxHandle" Type="int">20</Data>
+            </OpaqueData>
+            <Transform>1 0 0 0 0 1 -2.85115356E-15 0 0 2.85115356E-15 1 0 -3.131872E-08 5.89521E-09 8.688319E-09 1</Transform>
+            <Positions>-0.4234426 -0.7452683 0.7170929 2.08028173 -0.7452683 0.7170929 -0.4234426 2.15394139 0.7170928 2.08028173 2.15394139 0.7170928 -0.4234426 2.15394163 -0.1211241 2.08028173 2.15394163 -0.1211241 -0.4234426 -0.7452683 -0.121124014 2.08028173 -0.7452683 -0.121124014</Positions>
+            <Geometry>
+              <Batch>
+                <Material>#Resource2</Material>
+                <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22</Indices>
+                <Vertices>
+                  <PositionIndices>0 1 3 2 2 3 5 4 4 5 7 6 6 7 1 0 1 7 5 3 6 0 2 4</PositionIndices>
+                  <Channels>
+                    <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 1 0 0 1 0 0 1 0 0 1 0 1 0 0 1 0 0 1 0 0 1 0 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 -1 0 0 -1 0 0 -1 0 0 -1 0 1 0 0 1 0 0 1 0 0 1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0</VertexChannel>
+                    <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.375 1 0.625 1 0.625 0.75 0.375 0.75 0.375 0.75 0.625 0.75 0.625 0.5 0.375 0.5 0.375 0.5 0.625 0.5 0.625 0.25 0.375 0.25 0.375 0.25 0.625 0.25 0.625 0 0.375 0 0.625 1 0.875 1 0.875 0.75 0.625 0.75 0.125 1 0.375 1 0.375 0.75 0.125 0.75</VertexChannel>
+                  </Channels>
+                </Vertices>
+              </Batch>
+            </Geometry>
+          </Child>
+        </Children>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>UCX_Building_With_Tower</Name>
+        <OpaqueData>
+          <Data Key="UDP3DSMAX"></Data>
+          <Data Key="MaxHandle" Type="int">15</Data>
+        </OpaqueData>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+        <Positions>-1.05133593 0.071793735 0.172895968 1.0013994 0.071793735 0.172895968 -1.05133593 0.8986405 0.172895968 1.0013994 0.8986405 0.172895968 -1.05133593 0.8986406 -1.05970371 1.0013994 0.8986406 -1.05970371 -1.05133593 0.0717937946 -1.05970371 1.0013994 0.0717937946 -1.05970371</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource2</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22</Indices>
+            <Vertices>
+              <PositionIndices>0 1 3 2 2 3 5 4 4 5 7 6 6 7 1 0 1 7 5 3 6 0 2 4</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 -4.37113918E-08 1 0 -4.37113918E-08 1 0 -4.37113918E-08 1 0 -4.37113918E-08 1 0 1 4.37113918E-08 0 1 4.37113918E-08 0 1 4.37113918E-08 0 1 4.37113918E-08 0 4.37113918E-08 -1 0 4.37113918E-08 -1 0 4.37113918E-08 -1 0 4.37113918E-08 -1 0 -1 -4.37113918E-08 0 -1 -4.37113918E-08 0 -1 -4.37113918E-08 0 -1 -4.37113918E-08 1 0 0 1 0 0 1 0 0 1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.375 1 0.625 1 0.625 0.75 0.375 0.75 0.375 0.75 0.625 0.75 0.625 0.5 0.375 0.5 0.375 0.5 0.625 0.5 0.625 0.25 0.375 0.25 0.375 0.25 0.625 0.25 0.625 0 0.375 0 0.625 1 0.875 1 0.875 0.75 0.625 0.75 0.125 1 0.375 1 0.375 0.75 0.125 0.75</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>UCX_Building_With_Tower3</Name>
+        <OpaqueData>
+          <Data Key="UDP3DSMAX"></Data>
+          <Data Key="MaxHandle" Type="int">15</Data>
+        </OpaqueData>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+        <Positions>-0.543019056 1.9246242 0.896207869 0.500763655 1.9246242 0.896207869 -0.543019056 2.99054 0.896207869 0.500763655 2.99054 0.896207869 -0.543019056 2.99054 0.3446393 0.500763655 2.99054 0.3446393 -0.543019056 1.9246242 0.3446393 0.500763655 1.9246242 0.3446393</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource2</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22</Indices>
+            <Vertices>
+              <PositionIndices>0 1 3 2 2 3 5 4 4 5 7 6 6 7 1 0 1 7 5 3 6 0 2 4</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 -4.37113918E-08 1 0 -4.37113918E-08 1 0 -4.37113918E-08 1 0 -4.37113918E-08 1 0 1 4.37113918E-08 0 1 4.37113918E-08 0 1 4.37113918E-08 0 1 4.37113918E-08 0 4.37113918E-08 -1 0 4.37113918E-08 -1 0 4.37113918E-08 -1 0 4.37113918E-08 -1 0 -1 -4.37113918E-08 0 -1 -4.37113918E-08 0 -1 -4.37113918E-08 0 -1 -4.37113918E-08 1 0 0 1 0 0 1 0 0 1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.375 1 0.625 1 0.625 0.75 0.375 0.75 0.375 0.75 0.625 0.75 0.625 0.5 0.375 0.5 0.375 0.5 0.625 0.5 0.625 0.25 0.375 0.25 0.375 0.25 0.625 0.25 0.625 0 0.375 0 0.625 1 0.875 1 0.875 0.75 0.625 0.75 0.125 1 0.375 1 0.375 0.75 0.125 0.75</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+    </Children>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>03 - Default4</Name>
+      <Identity>
+        <SourceFilename>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2Content\Models\Buildings\Building_With_Tower.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">1 1 1</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="SpecularPower" Type="float">1.99999988</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External1</Reference>
+        </Texture>
+        <Texture Key="Ambient">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External1</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+    <Resource ID="#Resource2" Type="Graphics:BasicMaterialContent">
+      <Name>lambert7</Name>
+      <Identity>
+        <SourceFilename>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2Content\Models\Buildings\Building_With_Tower.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.4 0.4 0.4</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="SpecularPower" Type="float">1.07177341</Data>
+      </OpaqueData>
+    </Resource>
+  </Resources>
+  <ExternalReferences>
+    <ExternalReference ID="#External1" TargetType="Graphics:TextureContent">..\..\..\..\..\..\Project2Content\Models\Buildings\Building_Tower_Map.png</ExternalReference>
+  </ExternalReferences>
+</XnaContent>

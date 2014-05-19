@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:NodeContent">
+    <Name>RootNode</Name>
+    <Identity>
+      <SourceFilename>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2Content\Models\Buildings\Building.fbx</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+    <Children>
+      <Child>
+        <Name>polySurface53</Name>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+        <Children>
+          <Child>
+            <Name>transform84</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+          </Child>
+        </Children>
+      </Child>
+      <Child>
+        <Name>pCube1</Name>
+        <OpaqueData>
+          <Data Key="MaxHandle" Type="int">1</Data>
+        </OpaqueData>
+        <Transform>1 0 0 0 0 1 4.371139E-08 0 0 -4.371139E-08 1 0 -182.5628 0.6619145 97.64261 1</Transform>
+        <Children>
+          <Child>
+            <Name>transform1</Name>
+            <OpaqueData>
+              <Data Key="MaxHandle" Type="int">2</Data>
+            </OpaqueData>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 14.2207642 -0.6619146 7.336128 1</Transform>
+          </Child>
+        </Children>
+      </Child>
+      <Child>
+        <Name>pCube2</Name>
+        <OpaqueData>
+          <Data Key="MaxHandle" Type="int">3</Data>
+        </OpaqueData>
+        <Transform>-1 0 0 0 0 1 -1.62920685E-07 0 0 1.62920685E-07 1 0 -168.342056 0.6619145 97.64261 1</Transform>
+        <Children>
+          <Child>
+            <Name>transform2</Name>
+            <OpaqueData>
+              <Data Key="MaxHandle" Type="int">4</Data>
+            </OpaqueData>
+            <Transform>1 0 0 0 0 1 -2.842171E-14 0 0 2.842171E-14 1 0 0 -0.6619145 7.336128 1</Transform>
+          </Child>
+        </Children>
+      </Child>
+      <Child>
+        <Name>pCube17</Name>
+        <OpaqueData>
+          <Data Key="MaxHandle" Type="int">1</Data>
+        </OpaqueData>
+        <Transform>1 0 0 0 0 1 4.371139E-08 0 0 -4.371139E-08 1 0 0 1.44942975 -0.2852146 1</Transform>
+        <Children>
+          <Child>
+            <Name>transform91</Name>
+            <OpaqueData>
+              <Data Key="MaxHandle" Type="int">2</Data>
+            </OpaqueData>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 -1.44943 0.285214663 1</Transform>
+          </Child>
+        </Children>
+      </Child>
+      <Child>
+        <Name>pCube18</Name>
+        <OpaqueData>
+          <Data Key="MaxHandle" Type="int">3</Data>
+        </OpaqueData>
+        <Transform>-1 0 0 0 0 1 -4.371139E-08 0 0 4.371139E-08 1 0 0 1.44942975 -0.2852146 1</Transform>
+        <Children>
+          <Child>
+            <Name>transform90</Name>
+            <OpaqueData>
+              <Data Key="MaxHandle" Type="int">4</Data>
+            </OpaqueData>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 -1.44943 0.285214663 1</Transform>
+          </Child>
+        </Children>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Building</Name>
+        <OpaqueData>
+          <Data Key="UDP3DSMAX">MapChannel:1 = map1
+</Data>
+          <Data Key="MaxHandle" Type="int">1</Data>
+        </OpaqueData>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+        <Positions>-0.5 -0.0169325862 0.4999999 0.5 -0.0169325862 0.4999999 -0.5 3.98306751 0.50000006 0.5 3.98306751 0.50000006 -0.5 3.98306751 -0.499999881 0.5 3.98306751 -0.499999881 -0.5 -0.0169325415 -0.50000006 0.5 -0.0169325415 -0.50000006 -0.383548081 3.98306751 0.38354817 0.383548081 3.98306751 0.38354817 0.383548081 3.98306751 -0.383548 -0.383548081 3.98306751 -0.383548 -0.383548081 3.92236853 0.383548141 0.383548081 3.92236853 0.383548141 0.383548081 3.92236853 -0.383548 -0.383548081 3.92236853 -0.383548</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource1</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22 26 25 24 24 27 26 29 28 25 25 26 29 31 30 28 28 29 31 27 24 30 30 31 27 34 33 32 32 35 34 38 37 36 36 39 38 42 41 40 40 43 42 46 45 44 44 47 46</Indices>
+            <Vertices>
+              <PositionIndices>0 1 3 2 12 13 14 15 4 5 7 6 6 7 1 0 1 7 5 3 6 0 2 4 2 3 9 8 5 10 4 11 8 9 13 12 9 10 14 13 10 11 15 14 11 8 12 15</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 -4.371139E-08 1 0 -4.371139E-08 1 0 -4.371139E-08 1 0 -4.371139E-08 1 0 1 4.371139E-08 0 1 4.371139E-08 0 1 4.371139E-08 0 1 4.371139E-08 0 4.371139E-08 -1 0 4.371139E-08 -1 0 4.371139E-08 -1 0 4.371139E-08 -1 0 -1 -4.371139E-08 0 -1 -4.371139E-08 0 -1 -4.371139E-08 0 -1 -4.371139E-08 1 0 0 1 0 0 1 0 0 1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 0 1 4.371139E-08 0 1 4.371139E-08 0 1 4.371139E-08 0 1 4.371139E-08 0 1 4.371139E-08 0 1 4.371139E-08 0 1 4.371139E-08 0 1 4.371139E-08 0 4.371139E-08 -1 0 4.371139E-08 -1 0 4.371139E-08 -1 0 4.371139E-08 -1 -1 0 0 -1 0 0 -1 0 0 -1 0 0 0 -4.371139E-08 1 0 -4.371139E-08 1 0 -4.371139E-08 1 0 -4.371139E-08 1 1 0 0 1 0 0 1 0 0 1 0 0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.00194897619 0.998008 0.331350744 0.998008 0.331350744 0.6686062 0.00194897619 0.6686062 0.673342347 0.331393838 0.9260251 0.331393838 0.9260251 0.07871091 0.673342347 0.07871091 0.337741 0.9980077 0.667142749 0.9980077 0.667142749 0.6686059 0.337741 0.6686059 0.647034168 0.664700747 0.976435959 0.664700747 0.976435959 0.335299015 0.647034168 0.335299015 0.3116298 0.664700747 0.641031563 0.664700747 0.641031563 0.335299015 0.3116298 0.335299015 0.00194901554 0.331393778 0.331350774 0.331393778 0.331350774 0.00199198723 0.00194901554 0.00199198723 0.337741 0.331393838 0.667142749 0.331393838 0.6287832 0.293034434 0.376100451 0.293034434 0.667142749 0.00199204683 0.6287832 0.04035151 0.337741 0.00199204683 0.376100451 0.04035151 0.966993332 0.07871103 0.966993332 0.331393659 0.971991956 0.331393659 0.971991956 0.07871103 0.94911015 0.331393778 0.94911015 0.07871097 0.9441116 0.07871097 0.9441116 0.331393778 0.960551 0.331393778 0.960551 0.07871097 0.9555524 0.07871097 0.9555524 0.331393778 0.9376691 0.331393778 0.9376691 0.0787107944 0.9326705 0.0787107944 0.9326705 0.331393778</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>UCX_Building2</Name>
+        <OpaqueData>
+          <Data Key="UDP3DSMAX">MapChannel:1 = map1
+</Data>
+          <Data Key="MaxHandle" Type="int">3</Data>
+        </OpaqueData>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+        <Positions>-0.49424395 0.08696723 0.49424392 0.49424395 0.08696723 0.49424392 -0.49424395 4.010161 0.494243979 0.49424395 4.010161 0.494243979 -0.49424395 4.010161 -0.49424386 0.49424395 4.010161 -0.49424386 -0.49424395 0.08696735 -0.49424395 0.49424395 0.08696735 -0.49424395</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource2</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22</Indices>
+            <Vertices>
+              <PositionIndices>0 1 3 2 2 3 5 4 4 5 7 6 6 7 1 0 1 7 5 3 6 0 2 4</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 -4.371139E-08 1 0 -4.371139E-08 1 0 -4.371139E-08 1 0 -4.371139E-08 1 0 1 4.371139E-08 0 1 4.371139E-08 0 1 4.371139E-08 0 1 4.371139E-08 0 4.371139E-08 -1 0 4.371139E-08 -1 0 4.371139E-08 -1 0 4.371139E-08 -1 0 -1 -4.371139E-08 0 -1 -4.371139E-08 0 -1 -4.371139E-08 0 -1 -4.371139E-08 1 0 0 1 0 0 1 0 0 1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.375 1 0.625 1 0.625 0.75 0.375 0.75 0.375 0.75 0.625 0.75 0.625 0.5 0.375 0.5 0.375 0.5 0.625 0.5 0.625 0.25 0.375 0.25 0.375 0.25 0.625 0.25 0.625 0 0.375 0 0.625 1 0.875 1 0.875 0.75 0.625 0.75 0.125 1 0.375 1 0.375 0.75 0.125 0.75</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+    </Children>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>03 - Default2</Name>
+      <Identity>
+        <SourceFilename>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2Content\Models\Buildings\Building.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">1 1 1</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="SpecularPower" Type="float">1.99999988</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External1</Reference>
+        </Texture>
+        <Texture Key="Ambient">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External1</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+    <Resource ID="#Resource2" Type="Graphics:BasicMaterialContent">
+      <Name>lambert5</Name>
+      <Identity>
+        <SourceFilename>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2Content\Models\Buildings\Building.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.4 0.4 0.4</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="SpecularPower" Type="float">1.07177341</Data>
+      </OpaqueData>
+    </Resource>
+  </Resources>
+  <ExternalReferences>
+    <ExternalReference ID="#External1" TargetType="Graphics:TextureContent">..\..\..\..\..\..\Project2Content\Models\Buildings\Building_Map.png</ExternalReference>
+  </ExternalReferences>
+</XnaContent>

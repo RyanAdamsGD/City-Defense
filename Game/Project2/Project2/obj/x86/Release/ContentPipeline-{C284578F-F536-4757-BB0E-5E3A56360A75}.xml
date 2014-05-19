@@ -1,0 +1,693 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\Crosshair.png</Source>
+      <Name>Textures\Crosshair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Textures\Crosshair.xnb</Output>
+      <Time>2013-05-21T07:15:50.8785168-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Particle.png</Source>
+      <Name>Textures\Particle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Textures\Particle.xnb</Output>
+      <Time>2013-05-16T15:07:18.4469429-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Stars.png</Source>
+      <Name>Textures\Stars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Textures\Stars.xnb</Output>
+      <Time>2013-05-16T15:07:18.3569377-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Radar.png</Source>
+      <Name>Textures\Radar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Textures\Radar.xnb</Output>
+      <Time>2013-05-21T07:19:42.2490638-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\CrossHairWhite.png</Source>
+      <Name>Textures\CrossHairWhite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Textures\CrossHairWhite.xnb</Output>
+      <Time>2013-05-21T14:21:46.1982982-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy.png</Source>
+      <Name>Textures\Enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Textures\Enemy.xnb</Output>
+      <Time>2013-05-21T14:21:46.194298-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\HUD.png</Source>
+      <Name>Textures\HUD</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Textures\HUD.xnb</Output>
+      <Time>2013-05-22T15:28:30.0094317-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ParticleColors.png</Source>
+      <Name>Textures\ParticleColors</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Textures\ParticleColors.xnb</Output>
+      <Time>2010-08-19T08:34:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\spaceship.x</Source>
+      <Name>Models\spaceship</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\spaceship.xnb</Output>
+      <Time>2010-08-03T13:25:20-06:00</Time>
+      <Dependency>
+        <Key>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\obj\x86\Release\Models\spaceship_0.xml</Key>
+        <Value>2013-05-28T17:13:51.7109059-06:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Bullet.X</Source>
+      <Name>Models\Bullet</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\Bullet.xnb</Output>
+      <Time>2013-05-15T14:22:21.2287108-06:00</Time>
+      <Dependency>
+        <Key>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\obj\x86\Release\Models\Bullet_0.xml</Key>
+        <Value>2013-05-28T17:13:52.2010529-06:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Fonts\gameFont.spritefont</Source>
+      <Name>Fonts\gameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Fonts\gameFont.xnb</Output>
+      <Time>2013-05-08T10:42:03.8249233-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\Particle.fx</Source>
+      <Name>Effects\Particle</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Effects\Particle.xnb</Output>
+      <Time>2013-05-16T15:07:18.2659325-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\coordinate.fbx</Source>
+      <Name>Models\coordinate</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\coordinate.xnb</Output>
+      <Time>2013-05-17T15:05:44.6443771-06:00</Time>
+      <Dependency>
+        <Key>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\obj\x86\Release\Models\coordinate_0.xml</Key>
+        <Value>2013-05-28T17:13:52.948277-06:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\cylinder.fbx</Source>
+      <Name>Models\cylinder</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\cylinder.xnb</Output>
+      <Time>2013-05-17T15:22:02.8174928-06:00</Time>
+      <Dependency>
+        <Key>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\obj\x86\Release\Models\cylinder_0.xml</Key>
+        <Value>2013-05-28T17:13:53.1123262-06:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\NewGameWorld.fbx</Source>
+      <Name>Models\NewGameWorld</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\NewGameWorld.xnb</Output>
+      <Time>2013-05-22T14:29:11.6272615-06:00</Time>
+      <Dependency>
+        <Key>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\obj\x86\Release\Models\NewGameWorld_0.xml</Key>
+        <Value>2013-05-28T17:13:53.3804066-06:00</Value>
+      </Dependency>
+      <Request>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\worldView_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\FighterMissle.FBX</Source>
+      <Name>Models\FighterMissle</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\FighterMissle.xnb</Output>
+      <Time>2013-05-22T14:20:10.246155-06:00</Time>
+      <Dependency>
+        <Key>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\obj\x86\Release\Models\FighterMissle_0.xml</Key>
+        <Value>2013-05-28T17:13:55.4540285-06:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Shield.fbx</Source>
+      <Name>Models\Shield</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\Shield.xnb</Output>
+      <Time>2013-05-24T10:42:39.9046391-06:00</Time>
+      <Dependency>
+        <Key>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\obj\x86\Release\Models\Shield_0.xml</Key>
+        <Value>2013-05-28T17:13:55.6400843-06:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Plane.FBX</Source>
+      <Name>Models\Plane</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\Plane.xnb</Output>
+      <Time>2013-05-25T21:24:12.9067948-06:00</Time>
+      <Dependency>
+        <Key>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\obj\x86\Release\Models\Plane_0.xml</Key>
+        <Value>2013-05-28T17:13:55.8851578-06:00</Value>
+      </Dependency>
+      <Request>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\Plane_Map_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\spaceship.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\obj\x86\Release\Models\spaceship_0.xml</Output>
+      <Time>2010-08-03T13:25:20-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Bullet.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\obj\x86\Release\Models\Bullet_0.xml</Output>
+      <Time>2013-05-15T14:22:21.2287108-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\coordinate.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\obj\x86\Release\Models\coordinate_0.xml</Output>
+      <Time>2013-05-17T15:05:44.6443771-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\cylinder.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\obj\x86\Release\Models\cylinder_0.xml</Output>
+      <Time>2013-05-17T15:22:02.8174928-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewGameWorld.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\obj\x86\Release\Models\NewGameWorld_0.xml</Output>
+      <Time>2013-05-22T14:29:11.6272615-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\worldView.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\worldView_0.xnb</Output>
+      <Time>2013-05-18T19:01:04.2834747-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\FighterMissle.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\obj\x86\Release\Models\FighterMissle_0.xml</Output>
+      <Time>2013-05-22T14:20:10.246155-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Shield.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\obj\x86\Release\Models\Shield_0.xml</Output>
+      <Time>2013-05-24T10:42:39.9046391-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Plane.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\obj\x86\Release\Models\Plane_0.xml</Output>
+      <Time>2013-05-25T21:24:12.9067948-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Plane_Map.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\Plane_Map_0.xnb</Output>
+      <Time>2013-05-25T21:23:27.1781792-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Smoke.png</Source>
+      <Name>Textures\Smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Textures\Smoke.xnb</Output>
+      <Time>2013-05-29T11:06:16.3497702-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ExplosionParticles.png</Source>
+      <Name>Textures\ExplosionParticles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Textures\ExplosionParticles.xnb</Output>
+      <Time>2013-05-29T11:06:16.3577707-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Star5.png</Source>
+      <Name>Textures\Star5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Textures\Star5.xnb</Output>
+      <Time>2013-05-29T11:06:16.3537704-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Plane2.FBX</Source>
+      <Name>Models\Plane2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\Plane2.xnb</Output>
+      <Time>2013-05-29T11:06:16.0507531-06:00</Time>
+      <Dependency>
+        <Key>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\obj\x86\Release\Models\Plane2_0.xml</Key>
+        <Value>2013-05-29T13:22:17.7737638-06:00</Value>
+      </Dependency>
+      <Request>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Plane_Map_02_1.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Plane2.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\obj\x86\Release\Models\Plane2_0.xml</Output>
+      <Time>2013-05-29T11:06:16.0507531-06:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\obj\x86\Release\FBX\723F20F7\Plane2.fbm\Plane_Map_02.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Plane_Map_02_1.xnb</Output>
+      <Time>2013-05-29T13:22:17.6287058-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Plane3.fbx</Source>
+      <Name>Models\Plane3</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\Plane3.xnb</Output>
+      <Time>2013-05-29T13:24:31.4722218-06:00</Time>
+      <Dependency>
+        <Key>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\obj\x86\Release\Models\Plane3_0.xml</Key>
+        <Value>2013-05-29T13:24:44.475421-06:00</Value>
+      </Dependency>
+      <Request>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\Plane_Map_02_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Plane3.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\obj\x86\Release\Models\Plane3_0.xml</Output>
+      <Time>2013-05-29T13:24:31.4722218-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Plane_Map_02.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\Plane_Map_02_0.xnb</Output>
+      <Time>2013-05-29T13:23:42.7627458-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ExplosionParticle.png</Source>
+      <Name>Textures\ExplosionParticle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Textures\ExplosionParticle.xnb</Output>
+      <Time>2013-05-30T14:44:47.5530369-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ExplosionParticleColors.png</Source>
+      <Name>Textures\ExplosionParticleColors</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Textures\ExplosionParticleColors.xnb</Output>
+      <Time>2013-05-30T14:44:47.5840369-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BulletIcon.png</Source>
+      <Name>Textures\BulletIcon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Textures\BulletIcon.xnb</Output>
+      <Time>2013-05-29T15:45:00.0532196-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\MissileIcon.png</Source>
+      <Name>Textures\MissileIcon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Textures\MissileIcon.xnb</Output>
+      <Time>2013-05-29T15:45:00.0492196-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Plane_Map.png</Source>
+      <Name>Models\Plane_Map</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\Plane_Map.xnb</Output>
+      <Time>2013-05-25T21:23:27.1781792-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Plane_Map_02.png</Source>
+      <Name>Models\Plane_Map_02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\Plane_Map_02.xnb</Output>
+      <Time>2013-05-29T13:23:42.7627458-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\worldView.jpg</Source>
+      <Name>Models\worldView</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\worldView.xnb</Output>
+      <Time>2013-05-18T19:01:04.2834747-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\JetCrash.wav</Source>
+      <Name>Audio\JetCrash</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\JetCrash.xnb</Output>
+      <Time>2013-05-30T14:44:47.3300369-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\MainBGM.wav</Source>
+      <Name>Audio\MainBGM</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\MainBGM.xnb</Output>
+      <Time>2013-05-30T14:44:47.4580369-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\RadioChatter.wav</Source>
+      <Name>Audio\RadioChatter</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\RadioChatter.xnb</Output>
+      <Time>2013-05-30T14:44:47.3920369-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\afterburner_1.wav</Source>
+      <Name>Audio\afterburner_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\afterburner_1.xnb</Output>
+      <Time>2013-05-30T14:44:37.1620369-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\engine_1.wav</Source>
+      <Name>Audio\engine_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\engine_1.xnb</Output>
+      <Time>2013-05-30T14:44:37.1100369-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Radar.wav</Source>
+      <Name>Audio\Radar</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\Radar.xnb</Output>
+      <Time>2013-05-30T14:44:37.1520369-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\loading.wav</Source>
+      <Name>Audio\loading</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\loading.xnb</Output>
+      <Time>2013-05-30T14:44:47.4900369-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\disengage_engines.wav</Source>
+      <Name>Audio\disengage_engines</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\disengage_engines.xnb</Output>
+      <Time>2013-05-30T14:44:37.1580369-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\firemissleShoot.wav</Source>
+      <Name>Audio\firemissleShoot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\firemissleShoot.xnb</Output>
+      <Time>2013-05-30T14:44:47.4950369-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Explosion.wav</Source>
+      <Name>Audio\Explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\Explosion.xnb</Output>
+      <Time>2013-05-30T14:44:47.5070369-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\AC130RadioChatter.wav</Source>
+      <Name>Audio\AC130RadioChatter</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\AC130RadioChatter.xnb</Output>
+      <Time>2013-05-30T14:44:47.3220369-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\ChainGunShooting.wav</Source>
+      <Name>Audio\ChainGunShooting</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\ChainGunShooting.xnb</Output>
+      <Time>2013-05-30T14:44:47.3780369-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\EndFx.wav</Source>
+      <Name>Audio\EndFx</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\EndFx.xnb</Output>
+      <Time>2013-05-30T14:44:47.3350369-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\fighterplanesquadron.wav</Source>
+      <Name>Audio\fighterplanesquadron</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\fighterplanesquadron.xnb</Output>
+      <Time>2013-05-30T14:44:37.1240369-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\firemissles.wav</Source>
+      <Name>Audio\firemissles</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\firemissles.xnb</Output>
+      <Time>2013-05-30T14:44:37.1290369-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\HighDefinitionMachinegun.wav</Source>
+      <Name>Audio\HighDefinitionMachinegun</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\HighDefinitionMachinegun.xnb</Output>
+      <Time>2013-05-30T14:44:37.1420369-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\linoleum.wav</Source>
+      <Name>Audio\linoleum</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\linoleum.xnb</Output>
+      <Time>2013-05-30T14:44:37.1040369-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\MachineGunFireDistance.wav</Source>
+      <Name>Audio\MachineGunFireDistance</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\MachineGunFireDistance.xnb</Output>
+      <Time>2013-05-30T14:44:37.1670369-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\noahs_ark_with_holobody.wav</Source>
+      <Name>Audio\noahs_ark_with_holobody</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\noahs_ark_with_holobody.xnb</Output>
+      <Time>2013-05-30T14:44:37.2140369-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\shine.wav</Source>
+      <Name>Audio\shine</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\shine.xnb</Output>
+      <Time>2013-05-30T14:44:47.3720369-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SonicBoom.wav</Source>
+      <Name>Audio\SonicBoom</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\SonicBoom.xnb</Output>
+      <Time>2013-05-30T14:44:37.1470369-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\switchWeapon.wav</Source>
+      <Name>Audio\switchWeapon</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\switchWeapon.xnb</Output>
+      <Time>2013-05-30T14:44:47.4640369-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{C284578F-F536-4757-BB0E-5E3A56360A75}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-04-08T10:30:12.0065176-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

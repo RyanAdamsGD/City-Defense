@@ -1,0 +1,97 @@
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Textures\Crosshair.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Textures\Particle.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Textures\Stars.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Textures\Radar.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Textures\CrossHairWhite.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Textures\Enemy.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Textures\HUD.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Textures\ParticleColors.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\spaceship.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\Bullet.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Fonts\gameFont.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Effects\Particle.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\coordinate.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\cylinder.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\NewGameWorld.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\FighterMissle.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\Shield.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\Plane.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\worldView_0.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\Plane_Map_0.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Project2.exe
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Project2.pdb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\obj\x86\Release\Project2.exe
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\obj\x86\Release\Project2.pdb
+C:\Users\radams\Desktop\Xna Project - Copy\Game\Project2\Project2\bin\x86\Release\Content\Textures\Crosshair.xnb
+C:\Users\radams\Desktop\Xna Project - Copy\Game\Project2\Project2\bin\x86\Release\Content\Textures\Particle.xnb
+C:\Users\radams\Desktop\Xna Project - Copy\Game\Project2\Project2\bin\x86\Release\Content\Textures\Stars.xnb
+C:\Users\radams\Desktop\Xna Project - Copy\Game\Project2\Project2\bin\x86\Release\Content\Textures\Radar.xnb
+C:\Users\radams\Desktop\Xna Project - Copy\Game\Project2\Project2\bin\x86\Release\Content\Textures\CrossHairWhite.xnb
+C:\Users\radams\Desktop\Xna Project - Copy\Game\Project2\Project2\bin\x86\Release\Content\Textures\Enemy.xnb
+C:\Users\radams\Desktop\Xna Project - Copy\Game\Project2\Project2\bin\x86\Release\Content\Textures\HUD.xnb
+C:\Users\radams\Desktop\Xna Project - Copy\Game\Project2\Project2\bin\x86\Release\Content\Textures\ParticleColors.xnb
+C:\Users\radams\Desktop\Xna Project - Copy\Game\Project2\Project2\bin\x86\Release\Content\Models\spaceship.xnb
+C:\Users\radams\Desktop\Xna Project - Copy\Game\Project2\Project2\bin\x86\Release\Content\Models\Bullet.xnb
+C:\Users\radams\Desktop\Xna Project - Copy\Game\Project2\Project2\bin\x86\Release\Content\Fonts\gameFont.xnb
+C:\Users\radams\Desktop\Xna Project - Copy\Game\Project2\Project2\bin\x86\Release\Content\Effects\Particle.xnb
+C:\Users\radams\Desktop\Xna Project - Copy\Game\Project2\Project2\bin\x86\Release\Content\Models\coordinate.xnb
+C:\Users\radams\Desktop\Xna Project - Copy\Game\Project2\Project2\bin\x86\Release\Content\Models\cylinder.xnb
+C:\Users\radams\Desktop\Xna Project - Copy\Game\Project2\Project2\bin\x86\Release\Content\Models\NewGameWorld.xnb
+C:\Users\radams\Desktop\Xna Project - Copy\Game\Project2\Project2\bin\x86\Release\Content\Models\FighterMissle.xnb
+C:\Users\radams\Desktop\Xna Project - Copy\Game\Project2\Project2\bin\x86\Release\Content\Models\Shield.xnb
+C:\Users\radams\Desktop\Xna Project - Copy\Game\Project2\Project2\bin\x86\Release\Content\Models\Plane.xnb
+C:\Users\radams\Desktop\Xna Project - Copy\Game\Project2\Project2\bin\x86\Release\Content\Models\Ring.xnb
+C:\Users\radams\Desktop\Xna Project - Copy\Game\Project2\Project2\bin\x86\Release\Content\Models\worldView_0.xnb
+C:\Users\radams\Desktop\Xna Project - Copy\Game\Project2\Project2\bin\x86\Release\Content\Models\Plane_Map_0.xnb
+C:\Users\radams\Desktop\Xna Project - Copy\Game\Project2\Project2\bin\x86\Release\Content\Gold_0.xnb
+C:\Users\radams\Desktop\Xna Project - Copy\Game\Project2\Project2\bin\x86\Release\Project2.exe
+C:\Users\radams\Desktop\Xna Project - Copy\Game\Project2\Project2\bin\x86\Release\Project2.pdb
+C:\Users\radams\Desktop\Xna Project - Copy\Game\Project2\Project2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\radams\Desktop\Xna Project - Copy\Game\Project2\Project2\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\radams\Desktop\Xna Project - Copy\Game\Project2\Project2\obj\x86\Release\Project2.exe
+C:\Users\radams\Desktop\Xna Project - Copy\Game\Project2\Project2\obj\x86\Release\Project2.pdb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Textures\Smoke.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Textures\ExplosionParticles.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Textures\Star5.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\DPSF.dll
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\DPSF.xml
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\Plane2.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Plane_Map_02_1.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\Plane3.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\Plane_Map_02_0.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Textures\ExplosionParticle.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Textures\ExplosionParticleColors.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Textures\BulletIcon.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Textures\MissileIcon.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\Plane_Map.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\Plane_Map_02.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Models\worldView.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\JetCrash.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\MainBGM.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\RadioChatter.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\afterburner_1.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\engine_1.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\Radar.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\loading.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\disengage_engines.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\firemissleShoot.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\Explosion.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\AC130RadioChatter.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\ChainGunShooting.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\EndFx.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\fighterplanesquadron.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\firemissles.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\HighDefinitionMachinegun.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\linoleum.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\MachineGunFireDistance.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\noahs_ark_with_holobody.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\shine.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\SonicBoom.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\switchWeapon.xnb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\GameAudio.xgs
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\Wave Bank.xwb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Content\Audio\Sound Bank.xsb
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Indiefreaks.AOP.Profiler.dll
+C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2\bin\x86\Release\Indiefreaks.Xna.Profiler.dll

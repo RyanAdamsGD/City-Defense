@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Wave Bank">Wave Bank
+{
+    Name = Wave Bank;
+    Xbox File = Xbox\Wave Bank.xwb;
+    Windows File = Win\Wave Bank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Bank Last Revised Low = 1633382384;
+    Bank Last Revised High = 30301543;
+
+    Wave
+    {
+        Name = MainBGM;
+        File = MainBGM.wav;
+        Build Settings Last Modified Low = 1080592384;
+        Build Settings Last Modified High = 30301543;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 200;
+            Play Region Length = 30693888;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1911850712;
+            Last Modified High = 30301371;
+        }
+    }
+
+    Wave
+    {
+        Name = engine_1;
+        File = engine_1.wav;
+        Build Settings Last Modified Low = 1176802384;
+        Build Settings Last Modified High = 30301543;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 22050;
+            Bits Per Sample = 0;
+            Play Region Offset = 46;
+            Play Region Length = 141771;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2636094567;
+            Last Modified High = 30301360;
+        }
+    }
+
+    Wave
+    {
+        Name = Radar;
+        File = Radar.wav;
+        Build Settings Last Modified Low = 1267752384;
+        Build Settings Last Modified High = 30301543;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 11025;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 161460;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 4086598145;
+            Last Modified High = 30301359;
+        }
+    }
+
+    Wave
+    {
+        Name = RadioChatter;
+        File = RadioChatter.wav;
+        Build Settings Last Modified Low = 1346822384;
+        Build Settings Last Modified High = 30301543;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 48000;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 4681728;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1131577804;
+            Last Modified High = 30301356;
+        }
+    }
+
+    Wave
+    {
+        Name = afterburner_1;
+        File = afterburner_1.wav;
+        Build Settings Last Modified Low = 1408812384;
+        Build Settings Last Modified High = 30301543;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 22050;
+            Bits Per Sample = 0;
+            Play Region Offset = 46;
+            Play Region Length = 108707;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3317588241;
+            Last Modified High = 30301360;
+        }
+    }
+
+    Wave
+    {
+        Name = disengage_engines;
+        File = disengage_engines.wav;
+        Build Settings Last Modified Low = 1470582384;
+        Build Settings Last Modified High = 30301543;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 11025;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 48871;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3457790195;
+            Last Modified High = 30301360;
+        }
+    }
+
+    Wave
+    {
+        Name = loading;
+        File = loading.wav;
+        Build Settings Last Modified Low = 1583282384;
+        Build Settings Last Modified High = 30301543;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 10690560;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 4185820033;
+            Last Modified High = 30301356;
+        }
+    }
+
+    Wave
+    {
+        Name = JetCrash;
+        File = JetCrash.wav;
+        Build Settings Last Modified Low = 1633382384;
+        Build Settings Last Modified High = 30301543;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 1216512;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 221737363;
+            Last Modified High = 30301355;
+        }
+    }
+
+    Wave
+    {
+        Name = ChainGunShooting;
+        File = ChainGunShooting.wav;
+        Build Settings Last Modified Low = 3134720893;
+        Build Settings Last Modified High = 30301523;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 118;
+            Play Region Length = 175292;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1860730893;
+            Last Modified High = 30301523;
+        }
+    }
+
+    Wave
+    {
+        Name = Explosion;
+        File = Explosion.wav;
+        Build Settings Last Modified Low = 2707342618;
+        Build Settings Last Modified High = 30301524;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 173566;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2216837098;
+            Last Modified High = 30301524;
+        }
+    }
+
+    Wave
+    {
+        Name = firemissleShoot;
+        File = firemissleShoot.wav;
+        Build Settings Last Modified Low = 2838603814;
+        Build Settings Last Modified High = 30301524;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 132;
+            Play Region Length = 90142;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 4209373220;
+            Last Modified High = 30301523;
+        }
+    }
+
+    Wave
+    {
+        Name = switchWeapon;
+        File = switchWeapon.wav;
+        Build Settings Last Modified Low = 3629698252;
+        Build Settings Last Modified High = 30301524;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 80;
+            Play Region Length = 180116;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3272663222;
+            Last Modified High = 30301524;
+        }
+    }
+
+    Wave
+    {
+        Name = EndFx;
+        File = EndFx.wav;
+        Build Settings Last Modified Low = 29499095;
+        Build Settings Last Modified High = 30301529;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 126208;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3615659097;
+            Last Modified High = 30301528;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

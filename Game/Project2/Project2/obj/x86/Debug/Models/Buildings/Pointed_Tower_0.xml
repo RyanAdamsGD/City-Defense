@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:NodeContent">
+    <Name>RootNode</Name>
+    <Identity>
+      <SourceFilename>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2Content\Models\Buildings\Pointed_Tower.fbx</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+    <Children>
+      <Child Type="Graphics:MeshContent">
+        <Name>UCX_Pointed_Tower3</Name>
+        <OpaqueData>
+          <Data Key="UDP3DSMAX">MapChannel:1 = map1
+</Data>
+          <Data Key="MaxHandle" Type="int">24</Data>
+        </OpaqueData>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+        <Positions>-0.486745536 0.09088242 0.486745477 0.486745536 0.09088242 0.486745477 -0.486745536 3.44973516 0.486745536 0.486745536 3.44973516 0.486745536 -0.486745536 3.44973516 -0.486745477 0.486745536 3.44973516 -0.486745477 -0.486745536 0.09088296 -0.486745536 0.486745536 0.09088296 -0.486745536</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource1</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22</Indices>
+            <Vertices>
+              <PositionIndices>0 1 3 2 2 3 5 4 4 5 7 6 6 7 1 0 1 7 5 3 6 0 2 4</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 -8.742278E-08 1 0 -8.742278E-08 1 0 -8.742278E-08 1 0 -8.742278E-08 1 0 1 8.742278E-08 0 1 8.742278E-08 0 1 8.742278E-08 0 1 8.742278E-08 0 8.742278E-08 -1 0 8.742278E-08 -1 0 8.742278E-08 -1 0 8.742278E-08 -1 0 -1 -8.742278E-08 0 -1 -8.742278E-08 0 -1 -8.742278E-08 0 -1 -8.742278E-08 1 0 0 1 0 0 1 0 0 1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.375 1 0.625 1 0.625 0.75 0.375 0.75 0.375 0.75 0.625 0.75 0.625 0.5 0.375 0.5 0.375 0.5 0.625 0.5 0.625 0.25 0.375 0.25 0.375 0.25 0.625 0.25 0.625 0 0.375 0 0.625 1 0.875 1 0.875 0.75 0.625 0.75 0.125 1 0.375 1 0.375 0.75 0.125 0.75</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>UCX_Pointed_Tower</Name>
+        <OpaqueData>
+          <Data Key="UDP3DSMAX">MapChannel:1 = map1
+</Data>
+          <Data Key="MaxHandle" Type="int">27</Data>
+        </OpaqueData>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+        <Positions>-0.197123647 3.45274949 0.197123632 0.197123647 3.45274949 0.197123632 -0.197123647 3.84699678 0.197123647 0.197123647 3.84699678 0.197123647 -0.197123647 3.84699678 -0.197123632 0.197123647 3.84699678 -0.197123632 -0.197123647 3.45274949 -0.197123647 0.197123647 3.45274949 -0.197123647</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource1</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22</Indices>
+            <Vertices>
+              <PositionIndices>0 1 3 2 2 3 5 4 4 5 7 6 6 7 1 0 1 7 5 3 6 0 2 4</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 -8.742278E-08 1 0 -8.742278E-08 1 0 -8.742278E-08 1 0 -8.742278E-08 1 0 1 8.742278E-08 0 1 8.742278E-08 0 1 8.742278E-08 0 1 8.742278E-08 0 8.742278E-08 -1 0 8.742278E-08 -1 0 8.742278E-08 -1 0 8.742278E-08 -1 0 -1 -8.742278E-08 0 -1 -8.742278E-08 0 -1 -8.742278E-08 0 -1 -8.742278E-08 1 0 0 1 0 0 1 0 0 1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.375 1 0.625 1 0.625 0.75 0.375 0.75 0.375 0.75 0.625 0.75 0.625 0.5 0.375 0.5 0.375 0.5 0.625 0.5 0.625 0.25 0.375 0.25 0.375 0.25 0.625 0.25 0.625 0 0.375 0 0.625 1 0.875 1 0.875 0.75 0.625 0.75 0.125 1 0.375 1 0.375 0.75 0.125 0.75</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Pointed_Tower</Name>
+        <OpaqueData>
+          <Data Key="UDP3DSMAX">MapChannel:1 = map1
+</Data>
+          <Data Key="MaxHandle" Type="int">7</Data>
+        </OpaqueData>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+        <Positions>-0.498163879 2.38418579E-07 0.49999997 0.501836061 2.38418579E-07 0.49999997 -0.498163879 3.508883 0.5 0.501836061 3.508883 0.5 -0.498163879 3.508883 -0.500000238 0.501836061 3.508883 -0.500000238 -0.498163879 2.19345111E-07 -0.5 0.501836061 2.19345111E-07 -0.5 2.98023224E-07 4.16823435 0 0.3512128 3.60770941 0.33503437 -0.347540319 3.60770941 0.33503437 -0.347540319 3.60770941 -0.33503437 0.3512128 3.60770941 -0.33503437</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource2</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22 26 25 24 24 27 26 30 29 28 28 31 30 34 33 32 32 35 34 38 37 36 32 33 39 42 41 40 24 25 43</Indices>
+            <Vertices>
+              <PositionIndices>0 1 3 2 7 6 4 5 0 6 7 1 1 7 5 3 6 0 2 4 10 2 3 9 12 9 3 5 4 11 12 5 10 11 4 2 10 9 8 8 11 8 12 8</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 -3.21624525E-16 1 0 -3.21624525E-16 1 0 -3.21624525E-16 1 0 -3.21624525E-16 1 0 3.21624525E-16 -1 0 3.21624525E-16 -1 0 3.21624525E-16 -1 0 3.21624525E-16 -1 0 -1 -3.21624525E-16 0 -1 -3.21624525E-16 0 -1 -3.21624525E-16 0 -1 -3.21624525E-16 1 0 0 1 0 0 1 0 0 1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 0 0.611797452 0.791014433 0 0.6225858 0.7825516 0 0.6225864 0.782551169 0 0.6117982 0.791013837 0.8205459 0.571580648 1.83834366E-16 0.8205459 0.571580648 1.83834366E-16 0.85254 0.5226621 1.68100954E-16 0.85254 0.5226621 1.68100954E-16 0 0.6225855 -0.7825518 0 0.611797869 -0.7910142 0 0.6117981 -0.791013956 0 0.6225864 -0.782551169 -0.821703732 0.5699148 1.83298592E-16 -0.821703732 0.5699148 1.83298592E-16 -0.8525402 0.522661746 1.68100835E-16 -0.8525402 0.522661746 1.68100835E-16 0 0.611797869 0.791014135 0 0.6117981 0.791013956 0 0.6008949 0.799328 -0.78825134 0.615353465 1.97912769E-16 0 0.611797452 -0.791014433 0 0.6008949 -0.799328 0 0.6117982 -0.7910139 0.7857483 0.6185464 1.989397E-16</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.200034082 0.998008 0.392019778 0.998008 0.392019778 0.324352741 0.200034082 0.324352741 0.1938767 0.197766662 0.00189099112 0.197766662 0.00189099112 0.871421933 0.1938767 0.871421933 0.9473759 0.00199210644 0.7553903 0.00199210644 0.7553903 0.193977714 0.9473759 0.193977714 0.397992164 0.998008 0.5899778 0.998008 0.5899778 0.324352741 0.397992164 0.324352741 0.595950246 0.998008 0.787935853 0.998008 0.787935853 0.324352741 0.595950246 0.324352741 0.228951633 0.30537945 0.200034082 0.324352741 0.392019778 0.324352741 0.3631022 0.30537945 0.5583068 0.30537945 0.429663122 0.30537945 0.397992164 0.324352741 0.5899778 0.324352741 0.00189099112 0.871421933 0.0308085345 0.8903952 0.1649591 0.8903952 0.1938767 0.871421933 0.756264865 0.30537945 0.627621233 0.30537945 0.595950246 0.324352741 0.787935853 0.324352741 0.228951633 0.30537945 0.3631022 0.30537945 0.2956745 0.197766721 0.691943049 0.197766721 0.0308085345 0.8903952 0.0975314 0.998007953 0.1649591 0.8903952 0.493984967 0.197766721</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+    </Children>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>lambert10</Name>
+      <Identity>
+        <SourceFilename>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2Content\Models\Buildings\Pointed_Tower.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.4 0.4 0.4</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="SpecularPower" Type="float">1.07177341</Data>
+      </OpaqueData>
+    </Resource>
+    <Resource ID="#Resource2" Type="Graphics:BasicMaterialContent">
+      <Name>01 - Default</Name>
+      <Identity>
+        <SourceFilename>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2Content\Models\Buildings\Pointed_Tower.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">1 1 1</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="SpecularPower" Type="float">1.99999988</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External1</Reference>
+        </Texture>
+        <Texture Key="Ambient">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External1</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+  </Resources>
+  <ExternalReferences>
+    <ExternalReference ID="#External1" TargetType="Graphics:TextureContent">..\..\..\..\..\..\Project2Content\Models\Buildings\Pointed_Tower_Map.png</ExternalReference>
+  </ExternalReferences>
+</XnaContent>

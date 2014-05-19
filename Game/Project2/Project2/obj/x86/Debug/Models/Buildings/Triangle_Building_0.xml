@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:NodeContent">
+    <Name>RootNode</Name>
+    <Identity>
+      <SourceFilename>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2Content\Models\Buildings\Triangle_Building.fbx</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+    <Children>
+      <Child Type="Graphics:MeshContent">
+        <Name>UCX_Triangle_Building</Name>
+        <OpaqueData>
+          <Data Key="UDP3DSMAX">MapChannel:1 = map1
+</Data>
+          <Data Key="MaxHandle" Type="int">24</Data>
+        </OpaqueData>
+        <Transform>1 0 0 0 0 1 4.371139E-08 0 0 -4.371139E-08 1 0 1.33411939E-08 -2.13295266E-08 8.021244E-09 1</Transform>
+        <Positions>-0.474204123 -2.38418579E-07 0.48260206 0.5363897 -2.38418579E-07 0.48260206 -0.474204123 4.66898632 0.482602119 0.5363897 4.66898632 0.482602119 -0.474204123 4.66898632 -0.487962544 0.5363897 4.66898632 -0.487962544 -0.474204123 1.1920929E-07 -0.4879626 0.5363897 1.1920929E-07 -0.4879626</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource1</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22</Indices>
+            <Vertices>
+              <PositionIndices>0 1 3 2 2 3 5 4 4 5 7 6 6 7 1 0 1 7 5 3 6 0 2 4</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 -4.371139E-08 1 0 -4.371139E-08 1 0 -4.371139E-08 1 0 -4.371139E-08 1 0 1 4.371139E-08 0 1 4.371139E-08 0 1 4.371139E-08 0 1 4.371139E-08 0 4.371139E-08 -1 0 4.371139E-08 -1 0 4.371139E-08 -1 0 4.371139E-08 -1 0 -1 -4.371139E-08 0 -1 -4.371139E-08 0 -1 -4.371139E-08 0 -1 -4.371139E-08 1 0 0 1 0 0 1 0 0 1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.375 1 0.625 1 0.625 0.75 0.375 0.75 0.375 0.75 0.625 0.75 0.625 0.5 0.375 0.5 0.375 0.5 0.625 0.5 0.625 0.25 0.375 0.25 0.375 0.25 0.625 0.25 0.625 0 0.375 0 0.625 1 0.875 1 0.875 0.75 0.625 0.75 0.125 1 0.375 1 0.375 0.75 0.125 0.75</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>UCX_Triangle_Building1</Name>
+        <OpaqueData>
+          <Data Key="UDP3DSMAX">MapChannel:1 = map1
+</Data>
+          <Data Key="MaxHandle" Type="int">25</Data>
+        </OpaqueData>
+        <Transform>1 0 0 0 0 1 4.371139E-08 0 0 -4.371139E-08 1 0 1.33411939E-08 -3.93304376E-08 -1.78743463E-07 1</Transform>
+        <Positions>-0.474204123 4.700594 0.48260206 0.5363897 4.700594 0.48260206 -0.474204123 5.60396051 0.482602119 0.5363897 5.60396051 0.482602119 -0.474204123 5.60396051 0.03640911 0.5363897 5.60396051 0.03640911 -0.474204123 4.700594 0.0364092 0.5363897 4.700594 0.0364092</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource1</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22</Indices>
+            <Vertices>
+              <PositionIndices>0 1 3 2 2 3 5 4 4 5 7 6 6 7 1 0 1 7 5 3 6 0 2 4</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 -4.371139E-08 1 0 -4.371139E-08 1 0 -4.371139E-08 1 0 -4.371139E-08 1 0 1 4.371139E-08 0 1 4.371139E-08 0 1 4.371139E-08 0 1 4.371139E-08 0 4.371139E-08 -1 0 4.371139E-08 -1 0 4.371139E-08 -1 0 4.371139E-08 -1 0 -1 -4.371139E-08 0 -1 -4.371139E-08 0 -1 -4.371139E-08 0 -1 -4.371139E-08 1 0 0 1 0 0 1 0 0 1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.375 1 0.625 1 0.625 0.75 0.375 0.75 0.375 0.75 0.625 0.75 0.625 0.5 0.375 0.5 0.375 0.5 0.625 0.5 0.625 0.25 0.375 0.25 0.375 0.25 0.625 0.25 0.625 0 0.375 0 0.625 1 0.875 1 0.875 0.75 0.625 0.75 0.125 1 0.375 1 0.375 0.75 0.125 0.75</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Triangle_Building</Name>
+        <OpaqueData>
+          <Data Key="UDP3DSMAX">MapChannel:1 = map1
+</Data>
+          <Data Key="MaxHandle" Type="int">7</Data>
+        </OpaqueData>
+        <Transform>1 0 0 0 0 1.50995788E-07 1 0 0 -1 1.50995788E-07 0 -4.343606 2.72776532 5.989754 1</Transform>
+        <Positions>3.87999582 -5.477717 2.72776556 4.879996 -5.477717 2.72776556 3.87999582 -5.477717 -3.2187562 4.879996 -5.477717 -3.2187562 3.87999582 -6.4777174 -1.883049 4.879996 -6.4777174 -1.883049 3.87999582 -6.477717 2.72776556 4.879996 -6.477717 2.72776556</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource2</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22</Indices>
+            <Vertices>
+              <PositionIndices>3 2 0 1 2 3 5 4 4 5 7 6 1 0 6 7 2 4 6 0 3 1 7 5</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 1 2.220446E-16 0 1 2.220446E-16 0 1 2.220446E-16 0 1 2.220446E-16 0 -0.800511837 -0.5993171 0 -0.800511837 -0.5993171 0 -0.800512135 -0.599316537 0 -0.800512135 -0.599316537 0 -1 -2.220446E-16 0 -1 -2.220446E-16 0 -1 -2.220446E-16 0 -1 -2.220446E-16 0 -2.220446E-16 1 0 -2.220446E-16 1 0 -2.220446E-16 1 0 -2.220446E-16 1 -1 0 0 -1 0 0 -1 0 0 -1 0 0 1 0 0 1 0 0 1 0 0 1 0 0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.169220075 0.00199204683 0.00172450545 0.00199204683 0.00172450545 0.998007953 0.169220075 0.998007953 0.522841334 0.998008 0.690336943 0.998008 0.690336943 0.774283 0.522841334 0.774283 0.522841334 0.774283 0.690336943 0.774283 0.690336943 0.001992166 0.522841334 0.001992166 0.8639781 0.998007953 0.8639781 0.8305124 0.6964826 0.8305124 0.6964826 0.998007953 0.343054235 0.00199204683 0.175558746 0.225717008 0.175558746 0.998007953 0.343054235 0.998007953 0.34920004 0.00199204683 0.34920004 0.998007953 0.5166955 0.998007953 0.5166955 0.225717008</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+    </Children>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>lambert13</Name>
+      <Identity>
+        <SourceFilename>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2Content\Models\Buildings\Triangle_Building.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.4 0.4 0.4</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="SpecularPower" Type="float">1.07177341</Data>
+      </OpaqueData>
+    </Resource>
+    <Resource ID="#Resource2" Type="Graphics:BasicMaterialContent">
+      <Name>01 - Default</Name>
+      <Identity>
+        <SourceFilename>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2Content\Models\Buildings\Triangle_Building.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.5882353 0.5882353 0.5882353</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="SpecularPower" Type="float">1.99999988</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External1</Reference>
+        </Texture>
+        <Texture Key="Ambient">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External1</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+  </Resources>
+  <ExternalReferences>
+    <ExternalReference ID="#External1" TargetType="Graphics:TextureContent">..\..\FBX\906229D5\Triangle_Building.fbm\Triangle_Building_Map.png</ExternalReference>
+  </ExternalReferences>
+</XnaContent>

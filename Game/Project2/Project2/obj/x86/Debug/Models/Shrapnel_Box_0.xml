@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:NodeContent">
+    <Name>RootNode</Name>
+    <Identity>
+      <SourceFilename>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2Content\Models\Shrapnel_Box.FBX</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+    <Children>
+      <Child Type="Graphics:MeshContent">
+        <Name>Shrapnel_01</Name>
+        <OpaqueData>
+          <Data Key="MaxHandle" Type="int">2</Data>
+        </OpaqueData>
+        <Transform>5.054688 0 0 0 0 1.43187648E-15 -5.054688 0 0 5.054688 1.43187648E-15 0 -1.1002512 0.4628708 -24.3069935 1</Transform>
+        <Positions>-0.361666679 -2.5 0 0.6451529 -2.98728514 -0.232163966 -0.361666679 1.72427344 -0.156962872 0.797005534 2.26200151 -1.18314517 -0.110103607 -2.5 0.44253397 0.361666679 -2.5 1 0.00343561172 2.5 0.3911121 0.26077944 1.31847191 0.5226202</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource1</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22</Indices>
+            <Vertices>
+              <PositionIndices>0 2 3 1 4 5 7 6 0 1 5 4 1 3 7 5 3 2 6 7 2 0 4 6</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">-0.498638451 -0.09279913 -0.8618283 -0.498638451 -0.09279912 -0.8618283 -0.498638451 -0.09279913 -0.8618283 -0.498638451 -0.09279913 -0.8618283 -0.64508456 0.0466601178 0.762685359 -0.645084441 0.04666011 0.7626853 -0.6450845 0.04666011 0.762685359 -0.6450845 0.04666011 0.7626853 -0.352823079 -0.90021354 0.2552087 -0.352823079 -0.9002136 0.2552087 -0.352823079 -0.90021354 0.2552087 -0.352823019 -0.90021354 0.255208671 0.9609911 0.03775787 0.273989975 0.9609911 0.0377578661 0.273989946 0.960991 0.0377578624 0.273989946 0.960991 0.03775787 0.273989946 0.463831961 0.880176 0.100747563 0.463831961 0.880176 0.100747563 0.463831961 0.880176 0.100747555 0.463831961 0.880176067 0.100747563 -0.8564421 0.0221933443 0.5157658 -0.856442153 0.022193348 0.515765846 -0.8564421 0.0221933462 0.5157658 -0.8564421 0.0221933462 0.5157658</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1 1 1 0 0 0 0 1 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Shrapnel_002</Name>
+        <OpaqueData>
+          <Data Key="UDP3DSMAX">LastPose = undefined
+</Data>
+          <Data Key="MaxHandle" Type="int">7</Data>
+        </OpaqueData>
+        <Transform>2.424693 4.09010267 1.71517074 0 4.43517065 -2.236043 -0.9376803 0 -2.58007071E-06 1.95475173 -4.661419 0 -11.7368612 -1.256084 -16.85134 1</Transform>
+        <Positions>-0.361666679 -2.5 0 0.6451529 -2.98728514 -0.232163966 -0.361666679 1.72427344 -0.156962872 0.797005534 2.26200151 -1.18314517 -0.110103607 -2.5 0.44253397 0.361666679 -2.5 1 0.00343561172 2.5 0.3911121 0.26077944 1.31847191 0.5226202</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource2</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22</Indices>
+            <Vertices>
+              <PositionIndices>0 2 3 1 4 5 7 6 0 1 5 4 1 3 7 5 3 2 6 7 2 0 4 6</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">-0.498638451 -0.09279913 -0.8618283 -0.498638451 -0.09279912 -0.8618283 -0.498638451 -0.09279913 -0.8618283 -0.498638451 -0.09279913 -0.8618283 -0.64508456 0.0466601178 0.762685359 -0.645084441 0.04666011 0.7626853 -0.6450845 0.04666011 0.762685359 -0.6450845 0.04666011 0.7626853 -0.352823079 -0.90021354 0.2552087 -0.352823079 -0.9002136 0.2552087 -0.352823079 -0.90021354 0.2552087 -0.352823019 -0.90021354 0.255208671 0.9609911 0.03775787 0.273989975 0.9609911 0.0377578661 0.273989946 0.960991 0.0377578624 0.273989946 0.960991 0.03775787 0.273989946 0.463831961 0.880176 0.100747563 0.463831961 0.880176 0.100747563 0.463831961 0.880176 0.100747555 0.463831961 0.880176067 0.100747563 -0.8564421 0.0221933443 0.5157658 -0.856442153 0.022193348 0.515765846 -0.8564421 0.0221933462 0.5157658 -0.8564421 0.0221933462 0.5157658</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1 1 1 0 0 0 0 1 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Shrapnel_003</Name>
+        <OpaqueData>
+          <Data Key="UDP3DSMAX">LastPose = undefined
+</Data>
+          <Data Key="MaxHandle" Type="int">8</Data>
+        </OpaqueData>
+        <Transform>3.587394 3.56007719 -0.07955029 0 -2.69456 2.787704 3.24313951 0 2.32805443 -2.259302 3.87628937 0 5.37115431 -0.302607 -9.636268 1</Transform>
+        <Positions>-0.361666679 -2.5 0 0.6451529 -2.98728514 -0.232163966 -0.361666679 1.72427344 -0.156962872 0.797005534 2.26200151 -1.18314517 -0.110103607 -2.5 0.44253397 0.361666679 -2.5 1 0.00343561172 2.5 0.3911121 0.26077944 1.31847191 0.5226202</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource2</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22</Indices>
+            <Vertices>
+              <PositionIndices>0 2 3 1 4 5 7 6 0 1 5 4 1 3 7 5 3 2 6 7 2 0 4 6</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">-0.498638451 -0.09279913 -0.8618283 -0.498638451 -0.09279912 -0.8618283 -0.498638451 -0.09279913 -0.8618283 -0.498638451 -0.09279913 -0.8618283 -0.64508456 0.0466601178 0.762685359 -0.645084441 0.04666011 0.7626853 -0.6450845 0.04666011 0.762685359 -0.6450845 0.04666011 0.7626853 -0.352823079 -0.90021354 0.2552087 -0.352823079 -0.9002136 0.2552087 -0.352823079 -0.90021354 0.2552087 -0.352823019 -0.90021354 0.255208671 0.9609911 0.03775787 0.273989975 0.9609911 0.0377578661 0.273989946 0.960991 0.0377578624 0.273989946 0.960991 0.03775787 0.273989946 0.463831961 0.880176 0.100747563 0.463831961 0.880176 0.100747563 0.463831961 0.880176 0.100747555 0.463831961 0.880176067 0.100747563 -0.8564421 0.0221933443 0.5157658 -0.856442153 0.022193348 0.515765846 -0.8564421 0.0221933462 0.5157658 -0.8564421 0.0221933462 0.5157658</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1 1 1 0 0 0 0 1 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Shrapnel_004</Name>
+        <OpaqueData>
+          <Data Key="UDP3DSMAX">LastPose = undefined
+</Data>
+          <Data Key="MaxHandle" Type="int">9</Data>
+        </OpaqueData>
+        <Transform>-1.98165286 4.52441263 -1.0735904 0 1.87583792 1.8456496 4.315632 0 4.254898 1.29349351 -2.4026227 0 -10.7438812 0.345324576 -6.654955 1</Transform>
+        <Positions>-0.6566837 -1.3140887 -0.6602311 1.43575931 -0.233039141 -1.04949212 -1.14982951 1.40275645 -0.382292122 1.428245 1.664467 -2.53850365 -0.194104731 -2.1623323 0.254544437 0.3387181 -0.9629272 0.2996006 0.00343561172 2.5 0.3911121 0.26077944 1.31847191 0.5226202</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource3</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22</Indices>
+            <Vertices>
+              <PositionIndices>0 2 3 1 4 5 7 6 0 1 5 4 1 3 7 5 3 2 6 7 2 0 4 6</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">-0.3986624 -0.27303955 -0.8755099 -0.3986624 -0.27303952 -0.8755099 -0.398662418 -0.27303955 -0.87551 -0.3986624 -0.27303955 -0.87551 -0.216827676 -0.0467611365 0.9750894 -0.216827676 -0.0467611365 0.9750894 -0.216827646 -0.04676113 0.9750893 -0.216827646 -0.0467611328 0.9750893 0.5896131 -0.7307061 -0.3441292 0.58961314 -0.730706155 -0.344129175 0.5896131 -0.7307061 -0.344129175 0.5896131 -0.7307061 -0.344129175 0.860813 0.163596258 0.481909931 0.860813 0.163596258 0.48191 0.860812962 0.163596243 0.481909931 0.860813 0.163596258 0.48191 0.178644 0.9656822 -0.1885318 0.178644 0.9656822 -0.1885318 0.178644 0.965682149 -0.1885318 0.178643987 0.9656822 -0.1885318 -0.71574837 -0.0677161142 0.6950675 -0.71574837 -0.0677161142 0.6950676 -0.7157483 -0.0677161142 0.6950675 -0.71574837 -0.0677161142 0.6950675</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1 1 1 0 0 0 0 1 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Shrapnel_005</Name>
+        <OpaqueData>
+          <Data Key="UDP3DSMAX">LastPose = undefined
+</Data>
+          <Data Key="MaxHandle" Type="int">10</Data>
+        </OpaqueData>
+        <Transform>1.51090717 -2.153071 1.25148284 0 -2.489856 -1.335656 0.7081034 0 0.0504499525 -1.43703687 -2.53320885 0 -10.5080423 -0.915132463 8.384091 1</Transform>
+        <Positions>-0.6566837 -1.3140887 -0.6602311 1.43575931 -0.233039141 -1.04949212 -1.14982951 1.40275645 -0.382292122 1.428245 1.664467 -2.53850365 -0.194104731 -2.1623323 0.254544437 0.3387181 -0.9629272 0.2996006 0.00343561172 2.5 0.3911121 0.26077944 1.31847191 0.5226202</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource4</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22</Indices>
+            <Vertices>
+              <PositionIndices>0 2 3 1 4 5 7 6 0 1 5 4 1 3 7 5 3 2 6 7 2 0 4 6</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">-0.38993454 -0.280200064 -0.8771767 -0.6388741 -0.03735535 -0.7684038 -0.338103622 -0.3211686 -0.884611 0.16981104 -0.6079558 -0.775599 -0.0294634625 -0.07292648 0.996902049 0.12429776 -0.09233033 0.9879399 -0.446034551 -0.0106357634 0.894952536 -0.475404263 -0.00562675344 0.8797495 0.63949126 -0.637273669 -0.430038661 0.436562747 -0.8906822 -0.12687856 0.5959561 -0.7205741 -0.3544141 0.715174735 -0.293886274 -0.634157658 0.859694362 0.159269065 0.4853443 0.8817223 0.29339686 0.369437575 0.8526656 0.134067222 0.5049627 0.7842812 -0.0337651148 0.619486 0.177421585 0.9657855 -0.189155743 -0.446696073 0.7792931 -0.4395053 0.4158007 0.9076896 -0.05665171 0.898557365 0.236833841 0.369464964 -0.621993065 -0.0269536618 0.782558739 -0.936450243 -0.199498311 0.2885506 -0.8448291 -0.133950248 0.517997265 -0.556472957 -0.0007600202 0.8308654</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1 1 1 0 0 0 0 1 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Shrapnel_006</Name>
+        <OpaqueData>
+          <Data Key="UDP3DSMAX">LastPose = undefined
+</Data>
+          <Data Key="MaxHandle" Type="int">11</Data>
+        </OpaqueData>
+        <Transform>1.92816639 -0.561070859 1.683783 0 1.48965275 1.86317682 -1.08501148 0 -0.964809537 1.7554251 1.689785 0 9.361563 0.736825943 6.45084667 1</Transform>
+        <Positions>-0.361666679 -2.5 0 0.6451529 -2.98728514 -0.232163966 -0.361666679 1.72427344 -0.156962872 0.797005534 2.26200151 -1.18314517 -0.110103607 -2.5 0.44253397 0.361666679 -2.5 1 0.00343561172 2.5 0.3911121 0.26077944 1.31847191 0.5226202</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource4</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22</Indices>
+            <Vertices>
+              <PositionIndices>0 2 3 1 4 5 7 6 0 1 5 4 1 3 7 5 3 2 6 7 2 0 4 6</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">-0.498638451 -0.09279913 -0.8618283 -0.498638451 -0.09279912 -0.8618283 -0.498638451 -0.09279913 -0.8618283 -0.498638451 -0.09279913 -0.8618283 -0.64508456 0.0466601178 0.762685359 -0.645084441 0.04666011 0.7626853 -0.6450845 0.04666011 0.762685359 -0.6450845 0.04666011 0.7626853 -0.352823079 -0.90021354 0.2552087 -0.352823079 -0.9002136 0.2552087 -0.352823079 -0.90021354 0.2552087 -0.352823019 -0.90021354 0.255208671 0.9609911 0.03775787 0.273989975 0.9609911 0.0377578661 0.273989946 0.960991 0.0377578624 0.273989946 0.960991 0.03775787 0.273989946 0.463831961 0.880176 0.100747563 0.463831961 0.880176 0.100747563 0.463831961 0.880176 0.100747555 0.463831961 0.880176067 0.100747563 -0.8564421 0.0221933443 0.5157658 -0.856442153 0.022193348 0.515765846 -0.8564421 0.0221933462 0.5157658 -0.8564421 0.0221933462 0.5157658</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1 1 1 0 0 0 0 1 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Box001</Name>
+        <OpaqueData>
+          <Data Key="MaxHandle" Type="int">16</Data>
+        </OpaqueData>
+        <Transform>2.54 0 0 0 0 7.19523466E-16 -2.54 0 0 2.54 7.19523466E-16 0 0 0 16.8099689 1</Transform>
+        <Positions>-2.711998 -1.17946529 0 2.711998 -1.17946529 0 -2.711998 1.17946529 0 2.711998 1.17946529 0 -2.711998 -1.17946529 2.385757 2.711998 -1.17946529 2.385757 -2.711998 1.17946529 2.385757 2.711998 1.17946529 2.385757</Positions>
+        <Geometry>
+          <Batch>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22</Indices>
+            <Vertices>
+              <PositionIndices>0 2 3 1 4 5 7 6 0 1 5 4 1 3 7 5 3 2 6 7 2 0 4 6</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 1 0 0 1 0 0 1 0 0 1 0 -1 0 0 -1 0 0 -1 0 0 -1 0 1 0 0 1 0 0 1 0 0 1 0 0 0 1 0 0 1 0 0 1 0 0 1 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1 1 1 0 0 0 0 1 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+    </Children>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>03 - Default</Name>
+      <Identity>
+        <SourceFilename>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2Content\Models\Shrapnel_Box.FBX</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.5882353 0.5882353 0.5882353</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="SpecularPower" Type="float">1.99999988</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External1</Reference>
+        </Texture>
+        <Texture Key="Ambient">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External1</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+    <Resource ID="#Resource2" Type="Graphics:BasicMaterialContent">
+      <Name>02 - Default</Name>
+      <Identity>
+        <SourceFilename>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2Content\Models\Shrapnel_Box.FBX</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.5882353 0.5882353 0.5882353</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="SpecularPower" Type="float">1.99999988</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External2</Reference>
+        </Texture>
+        <Texture Key="Ambient">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External2</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+    <Resource ID="#Resource3" Type="Graphics:BasicMaterialContent">
+      <Name>04 - Default</Name>
+      <Identity>
+        <SourceFilename>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2Content\Models\Shrapnel_Box.FBX</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.5882353 0.5882353 0.5882353</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="SpecularPower" Type="float">1.99999988</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External2</Reference>
+        </Texture>
+        <Texture Key="Ambient">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External2</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+    <Resource ID="#Resource4" Type="Graphics:BasicMaterialContent">
+      <Name>01 - Default</Name>
+      <Identity>
+        <SourceFilename>C:\Users\radams\Desktop\Xna Project\Game\Project2\Project2Content\Models\Shrapnel_Box.FBX</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.5882353 0.5882353 0.5882353</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="SpecularPower" Type="float">1.99999988</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External3</Reference>
+        </Texture>
+        <Texture Key="Ambient">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External3</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+  </Resources>
+  <ExternalReferences>
+    <ExternalReference ID="#External1" TargetType="Graphics:TextureContent">..\FBX\452B23BA\Shrapnel_Box.fbm\WingR_Map.png</ExternalReference>
+    <ExternalReference ID="#External2" TargetType="Graphics:TextureContent">..\FBX\452B23BA\Shrapnel_Box.fbm\Plane_Map.png</ExternalReference>
+    <ExternalReference ID="#External3" TargetType="Graphics:TextureContent">..\FBX\452B23BA\Shrapnel_Box.fbm\Plane_Map_05.png</ExternalReference>
+  </ExternalReferences>
+</XnaContent>
